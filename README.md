@@ -1,6 +1,6 @@
 # Locket Gold Shadowrocket💛 By Kynx
 
-script này dùng để up locket gold cho Iphone qua Shadowrocket
+Script này dùng để up locket gold cho Iphone qua Shadowrocket
 
 ## Cách dùng
 1. Coppy đường dẫn dưới và add vào shadowrocket
